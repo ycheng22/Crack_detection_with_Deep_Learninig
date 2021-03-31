@@ -1,6 +1,6 @@
 # Crack_detection_with_Deep_Learninig
 
-This is a course project of *detecting concrete cracks from the concrete picture*.
+This is a course project of [*detecting concrete cracks from the concrete picture*](https://www.coursera.org/learn/ai-deep-learning-capstone).
 
 `Keras` is used.
 
